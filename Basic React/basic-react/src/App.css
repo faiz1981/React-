@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.nav{
+  
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color:#e4e146;
+  list-style-type: none;
+}
+
+.list{
+  padding: 1cm;
+  text-align: left;
+  Color : navy  ;
+
+}
+
+.img{
+  width : 200px;
+  /* height: 55px; */
+}
